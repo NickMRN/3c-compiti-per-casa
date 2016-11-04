@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  int Q; //quantità di numeri che inserirà l'utente github prova
+  int Q; //quantità di numeri che inserirà l'utente
   int X; //valore di base per il confronto
   int n; //numeri in entrata che verranno confrontati con X
   int i; // contatore ciclo for
